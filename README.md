@@ -1,2 +1,5 @@
 # lac-pavin-microbial-diversity
-M2 GENIOMHE internship subject
+Code of MAGnet, a tool for manual bins curation developped during my M2 GENIOMHE internship.
+
+And code in Jupyter Notebook format used for the microbial diversity analysis and figures.
+
